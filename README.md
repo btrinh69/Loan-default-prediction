@@ -28,7 +28,7 @@ Build a model to predict possible defaulters based on the data provided. The eva
 - `roc_auc_score`
 - `accuracy`
 
-## Files:
+## Files
 - `full_notebook.ipynb`: The notebook which performs all parts of the tasks ranging from EDA, model development, and error analysis. This notebook can be used to reproduce the results
 - `full_notebook.html`: The html version of the full notebook which is used to display the results (pandas-profiling and pipeline diagram) without having to run the notebook again
 - `data`: the directory which contains the data files
