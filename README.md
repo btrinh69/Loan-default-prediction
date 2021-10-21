@@ -1,5 +1,5 @@
 # Loan-default-prediction
-This project build a machine learning model which predict possible defaulters based on their historic data
+This project builds a machine learning model which predicts possible defaulters based on their historic data. The main model is Catboost Classifier.
 
 ## Context
 An organization wants to predict who possible defaulters are for the consumer loans product. They have data about historic customer behavior based on what they have observed. Hence when they acquire new customers they want to predict who is riskier and who is not.
